@@ -4,4 +4,12 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AspNetCore.Pattern.RepositoryServicePattern" Version="1.0.0" />
+    <PackageReference Include="AspNetCore.Pattern.RepositoryWorker" Version="0.0.2" />
+    <PackageReference Include="EFCBR" Version="3.1.0" />
+    <PackageReference Include="Kreativitaet.DotNet.Core.Pattern.ServiceRepository" Version="1.0.2" />
+    <PackageReference Include="NetCoreApiExtensions.EntityFramework.Relational" Version="1.0.0" />
+  </ItemGroup>
+
 </Project>
